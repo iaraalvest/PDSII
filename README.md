@@ -30,6 +30,8 @@ No *replit* todos os nossos codigos seraão encontrados em seus respectivos arqu
 No *github* será encontrada nossa documentação, tudo prescrito informando todo o nosso trabalho, nossas ideias, duvidas, soluções etc, um manual completo para o nosso cliente possuindo todas as informações necessarias e detalhadas, nele também será encontrado nossos codigos,  entao o cliente irá possuir dois canais de acesso.
 
 Link:
+![image](https://github.com/iaraalvest/PDSII/assets/170683528/158b694f-102b-491f-bb66-810e9ec76e78)
+
 
 # Instruções de instalação 
  Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
