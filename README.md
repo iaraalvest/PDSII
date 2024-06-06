@@ -31,9 +31,15 @@ No *github* será encontrada nossa documentação, tudo prescrito informando tod
 
 Link:
 
+Para acessar os codigos pelo github, o usuario ira acessar o link a cima e cai nessa janela:
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/27165c6c-4521-439f-9efe-9847bdd10ba3)
 
+Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
+![image](https://github.com/iaraalvest/PDSII/assets/170683528/b4934346-c175-4658-9463-25a83f0b9a8e)
+
+Clica no segundo e link e já tem acesso aos codigos:
+![image](https://github.com/iaraalvest/PDSII/assets/170683528/d2246b80-34d5-45bb-8579-3317a4f7b37a)
 
 
 # Instruções de instalação 
- Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
+ Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassin
