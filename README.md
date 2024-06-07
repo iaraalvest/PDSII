@@ -60,7 +60,7 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
 - Entender como os jogos funcionam: Fornece informações sobre como os jogos disponíveis funcionam.
 - Encerrar o programa: Encerra o programa.
 
-  2.1- *Entrar em um Jogo*
+2.1- *Entrar em um Jogo*
   - Selecione a opção "Entrar em um Jogo" no lobby.
   - Escolha o jogo desejado digitando o número correspondente ou a primeira letra do nome do jogo.
        - Para Paciencia, digite 'P';
@@ -68,11 +68,11 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
        - Para Truco, digite 'T';
        - Pressione Enter para confirmar.
 
-   2.2- *Mudando o Número de Jogadores*
+ 2.2- *Mudando o Número de Jogadores*
   - No lobby do jogo, o usuário seleciona a opção "Mudar o Número de Jogadores".
   - O sistema perguntará se deseja aumentar ou diminuir a quantidade de jogadores. Digite 'A' para adicionar um jogador ou 'D' para remover um jogador. O sistema solicitará o nome do novo jogador e ele será adicionado/removido à lista de jogadores.
-    
-   2.3- *Explicação dos Jogos*- Esta funcionalidade fornece uma explicação detalhada dos jogos disponíveis.
+
+  2.3- *Explicação dos Jogos*- Esta funcionalidade fornece uma explicação detalhada dos jogos disponíveis.
     
   - Jogo 21: Pode ser jogado com até 5 pessoas.
         Objetivo: Chegar o mais próximo possível de 21 pontos sem ultrapassá-lo.
@@ -83,7 +83,7 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
   - Jogo Paciência: É um jogo de cartas para apenas uma pessoa.
         Objetivo: Criar quatro pilhas de cartas, uma para cada naipe, em ordem crescente (do ás ao rei).
     
-    2.4- *Encerrar o Programa*
+  2.4- *Encerrar o Programa*
   - Selecione a opção "Encerrar o Programa" no lobby.
   - O programa será finalizado e você sairá da Casa Principal.
 
