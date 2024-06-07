@@ -47,3 +47,6 @@ Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do git
 *link para criar conta no github*
 
 Logo após criar a conta deverá acessar (colocar o caminho até a pasta e nome ) após ter acesso ao código deverá acessar o replit *link para o replit e caminho de como entrar usando o github* com sua conta do github e executar o código por lá.
+
+
+# Instruções de uso 
