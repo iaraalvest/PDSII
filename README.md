@@ -55,10 +55,10 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
 1. *Inicialização de um Jogador*- Cria um novo jogador com um nome especificado e atribui 100 moedas iniciais.
 
 2. *Lobby do Jogo*- No lobby do jogo, você tem as seguintes opções:
-1. Entrar em um jogo: Permite que você entre em um dos jogos disponíveis.
-2. Mudar o número de jogadores: Permite que você altere o número de jogadores.
-3. Entender como os jogos funcionam: Fornece informações sobre como os jogos disponíveis funcionam.
-4. Encerrar o programa: Encerra o programa.
+- Entrar em um jogo: Permite que você entre em um dos jogos disponíveis.
+- Mudar o número de jogadores: Permite que você altere o número de jogadores.
+- Entender como os jogos funcionam: Fornece informações sobre como os jogos disponíveis funcionam.
+- Encerrar o programa: Encerra o programa.
 
 2.1 *Entrar em um Jogo*
 1. Selecione a opção "Entrar em um Jogo" no lobby.
