@@ -7,7 +7,7 @@ Um cliente nos procurou querendo um programa funcional para um sistema de cassin
 
 * Jogos de cartas de Cassino e outros jogos populares como truco e 21
 * Quer um sistema de monetização
-# Solução - visaõ geral
+# Solução - visão geral
 Nós faremos um sistema de cadastro e login com moedas próprias, que tem um banco de dados que armazena nome, senha e moedas (sem valor no mundo real).
 Existe 1 jogo individual, e o restante é multiplayer.Cada jogador começa com 100 moedas, e pode ganhar mais moedas ganhando de outros jogadores ou da casa (ganhar da casa dá menos moedas em comparação com ganhar de outros jogadores, pois assim eles ficam vidrados em jogar e competir e se não tiver ninguém eles jogam sozinhos mas ganhando menos, para não quebrar o jogo). A casa pode produzir dinheiro infinito
 
