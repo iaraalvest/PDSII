@@ -87,7 +87,7 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
   - Selecione a opção "Encerrar o Programa" no lobby.
   - O programa será finalizado e você sairá da Casa Principal.
 
-# Intruções de uso- Jogo Paciência
+# Instruções de uso- Jogo Paciência
 
 *Objetivo do Jogo*
 - Mover todas as cartas para as fundações, separando-as por naipes e em ordem crescente (Ás ao Rei). As cartas são dispostas em sete colunas no tableau e podem ser movidas entre colunas seguindo regras específicas: ordem decrescente e alternando cores. Você também pode comprar cartas do monte.
