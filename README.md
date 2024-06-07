@@ -69,7 +69,6 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
    - Pressione Enter para confirmar.
 
  2.2 *Mudando o Número de Jogadores*
- Passos:
  1. No lobby do jogo, o usuário seleciona a opção "Mudar o Número de Jogadores".
  2. O sistema perguntará se deseja aumentar ou diminuir a quantidade de jogadores.
     Digite 'A' para adicionar um jogador ou 'D' para remover um jogador.
