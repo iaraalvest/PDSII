@@ -49,4 +49,64 @@ Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do git
 Logo após criar a conta deverá acessar (colocar o caminho até a pasta e nome ) após ter acesso ao código deverá acessar o replit *link para o replit e caminho de como entrar usando o github* com sua conta do github e executar o código por lá.
 
 
-# Instruções de uso 
+# Instruções gerais de uso 
+Este manual fornece instruções sobre como jogar e interagir com diferentes jogos disponíveis no programa. Ele descreve as opções disponíveis no lobby do jogo e como entrar em um jogo específico.
+
+1. Inicialização de um Jogador
+Cria um novo jogador com um nome especificado e atribui 100 moedas iniciais.
+
+2. Lobby do Jogo
+No lobby do jogo, você tem as seguintes opções:
+	1. Entrar em um jogo: Permite que você entre em um dos jogos disponíveis.
+	2. Mudar o número de jogadores: Permite que você altere o número de jogadores.
+	3. Entender como os jogos funcionam: Fornece informações sobre como os jogos disponíveis funcionam.
+	4. Encerrar o programa: Encerra o programa.
+
+2.1 Entrar em um Jogo
+	1. Selecione a opção "Entrar em um Jogo" no lobby.
+	2. Escolha o jogo desejado digitando o número correspondente ou a primeira letra do nome do jogo.
+	   Para Paciencia, digite 'P'.
+	   Para 21, digite '2'.
+	   Para Truco, digite 'T'.
+	   Pressione Enter para confirmar.
+
+ 2.2 Mudando o Número de Jogadores
+	Passos:
+		1. No lobby do jogo, o usuário seleciona a opção "Mudar o Número de Jogadores".
+		2. O sistema perguntará se deseja aumentar ou diminuir a quantidade de jogadores.
+     Digite 'A' para adicionar um jogador ou 'D' para remover um jogador.
+     O sistema solicitará o nome do novo jogador.
+	    O jogador será adicionado/removido à lista de jogadores.
+
+ 2.3 Explicação dos Jogos
+ Esta funcionalidade fornece uma explicação detalhada dos jogos disponíveis.
+
+ Jogo 21
+ Pode ser jogado com até 5 pessoas.
+ Objetivo: Chegar o mais próximo possível de 21 pontos sem ultrapassá-lo.
+
+ Jogo Truco
+ Pode ser jogado por duas duplas.
+ Objetivo: Fazer pontos através de blefes e estratégias para vencer as rodadas.
+
+ Jogo Paciência
+ É um jogo de cartas para apenas uma pessoa.
+ Objetivo: Criar quatro pilhas de cartas, uma para cada naipe, em ordem crescente (do ás ao rei).
+
+ 2.4 Encerrar o Programa
+	 1. Selecione a opção "Encerrar o Programa" no lobby.
+	 2. O programa será finalizado e você sairá da Casa Principal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
