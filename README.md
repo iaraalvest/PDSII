@@ -42,4 +42,8 @@ Clica no segundo e link e já tem acesso aos codigos:
 
 
 # Instruções de instalação 
- Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassin
+ Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
+Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do github 
+*link para criar conta no github*
+
+Logo após criar a conta deverá acessar (colocar o caminho até a pasta e nome ) após ter acesso ao código deverá acessar o replit *link para o replit e caminho de como entrar usando o github* com sua conta do github e executar o código por lá.
