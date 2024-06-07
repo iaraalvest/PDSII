@@ -87,6 +87,34 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
   - Selecione a opção "Encerrar o Programa" no lobby.
   - O programa será finalizado e você sairá da Casa Principal.
 
+# Intruções de uso- Jogo Paciência
+
+*Objetivo do Jogo*
+- Mover todas as cartas para as fundações, separando-as por naipes e em ordem crescente (Ás ao Rei). As cartas são dispostas em sete colunas no tableau e podem ser movidas entre colunas seguindo regras específicas: ordem decrescente e alternando cores. Você também pode comprar cartas do monte.
+
+*Início do Jogo*
+
+- Criação do Monte: Um baralho de 52 cartas é criado.
+- Embaralhamento do Monte: As cartas são embaralhadas.
+- Distribuição das Cartas: As cartas são distribuídas em sete pilhas na parte inferior do tableau.
+  
+*Jogadas Disponíveis*
+
+Durante o jogo, você pode escolher entre as seguintes ações:
+- Ver a próxima carta do monte:
+- Mover uma carta de uma pilha a outra:
+- Mover uma carta do monte a uma pilha:
+- Mover uma carta de uma pilha para a pilha de cima:
+- Mover carta do monte para pilha de cima;
+- Mover a carta da pilha de cima para a pilha de baixo:
+
+*Regras de Movimentação*
+	- Ordem Decrescente e Alternando Cores: Cartas devem ser empilhadas em ordem decrescente e alternando cores.
+	- Fundações: Cartas nas fundações devem ser movidas em ordem crescente e separadas por naipes.
+ 
+*Final do Jogo*
+- Vitória: Todas as cartas estão nas fundações.
+- Derrota: Não há mais movimentos possíveis.
 
 
 
