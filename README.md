@@ -74,13 +74,13 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
     
    2.3- *Explicação dos Jogos*- Esta funcionalidade fornece uma explicação detalhada dos jogos disponíveis.
     
-     1. Jogo 21: Pode ser jogado com até 5 pessoas.
+  - Jogo 21: Pode ser jogado com até 5 pessoas.
         Objetivo: Chegar o mais próximo possível de 21 pontos sem ultrapassá-lo.
     
-     2. Jogo Truco: Pode ser jogado por duas duplas.
+    - Jogo Truco: Pode ser jogado por duas duplas.
         Objetivo: Fazer pontos através de blefes e estratégias para vencer as rodadas.
     
-     3. Jogo Paciência: É um jogo de cartas para apenas uma pessoa.
+   - Jogo Paciência: É um jogo de cartas para apenas uma pessoa.
         Objetivo: Criar quatro pilhas de cartas, uma para cada naipe, em ordem crescente (do ás ao rei).
     
     2.4- *Encerrar o Programa*
