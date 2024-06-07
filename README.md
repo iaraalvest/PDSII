@@ -101,16 +101,16 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
 *Jogadas Disponíveis*
 
 Durante o jogo, você pode escolher entre as seguintes ações:
-- Ver a próxima carta do monte:
-- Mover uma carta de uma pilha a outra:
-- Mover uma carta do monte a uma pilha:
-- Mover uma carta de uma pilha para a pilha de cima:
+- Ver a próxima carta do monte;
+- Mover uma carta de uma pilha a outra;
+- Mover uma carta do monte a uma pilha;
+- Mover uma carta de uma pilha para a pilha de cima;
 - Mover carta do monte para pilha de cima;
-- Mover a carta da pilha de cima para a pilha de baixo:
+- Mover a carta da pilha de cima para a pilha de baixo.
 
 *Regras de Movimentação*
-	- Ordem Decrescente e Alternando Cores: Cartas devem ser empilhadas em ordem decrescente e alternando cores.
-	- Fundações: Cartas nas fundações devem ser movidas em ordem crescente e separadas por naipes.
+- Ordem Decrescente e Alternando Cores: Cartas devem ser empilhadas em ordem decrescente e alternando cores.
+- Fundações: Cartas nas fundações devem ser movidas em ordem crescente e separadas por naipes.
  
 *Final do Jogo*
 - Vitória: Todas as cartas estão nas fundações.
