@@ -84,6 +84,7 @@ void Jogo_Paciencia::Start() {
                 break;
         }
     }
+    cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
 }
 
 // Função auxiliar para criar um nó de carta
