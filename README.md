@@ -126,7 +126,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 
 - Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
 
-#Instruçoes de uso - Truco
+# Instruçoes de uso - Truco
 
 
 
