@@ -116,7 +116,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Vitória: Todas as cartas estão nas fundações.
 - Derrota: Não há mais movimentos possíveis.
 
-
+# Principais Dificuldades
 
 
 
