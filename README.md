@@ -142,7 +142,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 *Rodada 1*
 - Jogador um irá jogar;
 - Jogador dois joga em seguida;
-- Final da rodada 1:*Se as cartas do jogador um forem maiores que as do jogador dois, consideraremos o jogador um o vencedor dessa rodada. Caso contrário o jogador dois será o ganhador*;
+- Final da rodada 1: *Se as cartas do jogador um forem maiores que as do jogador dois, consideraremos o jogador um o vencedor dessa rodada. Caso contrário o jogador dois será o ganhador*;
 - O mesmo ocorrerá em todas as rodadas de acordo com um número n de partidas escolhidas pelos usuários. 
 
 *Final do jogo*
