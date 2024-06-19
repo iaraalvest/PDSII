@@ -127,11 +127,34 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
 
 # Instruçoes de uso - Truco
+*Objetivo do jogo*
+- O objetivo do jogo é vencer mais rodadas que o seu adversário, acumulando o maior número de pontos ao final de todas as partidas. A vitória é alcançada ao demonstrar habilidade e estratégia, garantindo que seus pontos superem os do oponente ao término do jogo.
 
+- *Início do jogo*
+- Cada jogador receberá três cartas, tais cartas terão valores específicos e cada uma delas têm diferentes funções e valores dentro do jogo.
+- Distribuição e exibição das cartas aos 2 usuários.
 
+- *Rodadas*
+- Cada jogador começará com 0 pontos
+- Rodada ocorre baseada na seguinte ordem de grandeza das cartas.
+              3 > 2 > A > K > J > Q > 7 > 6 > 5 > 4
+*Rodada 1*
+- Jogador um irá jogar;
+- Jogador dois joga em seguida;
+- Final da rodada 1:*Se as cartas do jogador um forem maiores que as do jogador dois, consideraremos o jogador um o vencedor dessa rodada. Caso contrário o jogador dois será o ganhador*;
+- O mesmo ocorrerá em todas as rodadas de acordo com um número n de partidas escolhidas pelos usuários. 
 
+*Final do jogo*
+- Ao final de todas as rodadas os pontos de cada jogador serão acumulados e o jogo acabará.
+- O vencedor é declarado de acordo com o maior acumulador de pontos.
 
+*Função:'Truco!'*
+- "Truco!" é essencialmente um pedido para aumentar o valor da rodada. Quando um jogador declara "Truco", ele está desafiando o adversário e indicando que acredita ter uma mão forte o suficiente para vencer a rodada, ou que quer blefar para o adversário.
+- Opções dessa função:
+  Aceitar o Truco: O adversário aceita o desafio, e a rodada passa a valer mais pontos.
+  Não aceitar: O adversário não aceita e as condições são mantidas. 
 
+# Principais dificuldades
 
 
 
