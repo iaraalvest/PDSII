@@ -130,14 +130,15 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 *Objetivo do jogo*
 - O objetivo do jogo é vencer mais rodadas que o seu adversário, acumulando o maior número de pontos ao final de todas as partidas. A vitória é alcançada ao demonstrar habilidade e estratégia, garantindo que seus pontos superem os do oponente ao término do jogo.
 
-  *Início do jogo*
+*Início do jogo*
 - Cada jogador receberá três cartas, tais cartas terão valores específicos e cada uma delas têm diferentes funções e valores dentro do jogo.
 - Distribuição e exibição das cartas aos 2 usuários.
 
- *Rodadas*
+*Rodadas*
 - Cada jogador começará com 0 pontos
 - Rodada ocorre baseada na seguinte ordem de grandeza das cartas.
-              3 > 2 > A > K > J > Q > 7 > 6 > 5 > 4
+
+                                       3 > 2 > A > K > J > Q > 7 > 6 > 5 > 4
 *Rodada 1*
 - Jogador um irá jogar;
 - Jogador dois joga em seguida;
