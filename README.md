@@ -152,7 +152,9 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 *Função:'Truco!'*
 - "Truco!" é essencialmente um pedido para aumentar o valor da rodada. Quando um jogador declara "Truco", ele está desafiando o adversário e indicando que acredita ter uma mão forte o suficiente para vencer a rodada, ou que quer blefar para o adversário.
 - Opções dessa função:
+  
   Aceitar o Truco: O adversário aceita o desafio, e a rodada passa a valer mais pontos.
+  
   Não aceitar: O adversário não aceita e as condições são mantidas. 
 
 # Principais dificuldades
