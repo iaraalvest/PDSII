@@ -46,7 +46,6 @@ Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
 Clica no segundo e link e já tem acesso aos codigos:
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/d2246b80-34d5-45bb-8579-3317a4f7b37a)
 
-
 # Instruções de instalação 
 
  Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
@@ -122,7 +121,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Vitória: Todas as cartas estão nas fundações.
 - Derrota: Não há mais movimentos possíveis.
 
-# Instruçoes de uso - Jogo Truco
+# Instruções de uso - Jogo Truco
 
 *Objetivo do jogo*
 - O objetivo do jogo é vencer mais rodadas que o seu adversário, acumulando o maior número de pontos ao final de todas as partidas. A vitória é alcançada ao demonstrar habilidade e estratégia, garantindo que seus pontos superem os do oponente ao término do jogo.
@@ -154,7 +153,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
   
   Não aceitar: O adversário não aceita e as condições são mantidas. 
 
-# Instruçoes de uso - Jogo 21
+# Instruções de uso - Jogo 21
 
 *Objetivo do jogo*
 - O objetivo principal do jogo 21 é conseguir uma mão de cartas cuja soma dos valores seja o mais próximo possível de 21, sem ultrapassar esse valor.
