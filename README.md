@@ -1,17 +1,23 @@
 # Jogo de Cartas Avançado 
 ![tela de incio](https://github.com/iaraalvest/PDSII/assets/170683528/31ae8c26-6ad1-4c90-804d-30528c6657c5)
+
 # Situação
 > :construction: Projeto em construção :construction:
+
 # Apresentação
+
 Um cliente nos procurou querendo um programa funcional para um sistema de cassino online, estilo Blazer, porém só com cartas de baralho e onde os jogadores tiram dinheiro deles mesmos, porém a casa sempre fica com uma porcentagem do dinheiro total envolvido. E ele implica:
 
 * Jogos de cartas de Cassino e outros jogos populares como truco e 21
 * Quer um sistema de monetização
+
 # Solução - visão geral
+
 Nós faremos um sistema de cadastro e login com moedas próprias, que tem um banco de dados que armazena nome, senha e moedas (sem valor no mundo real).
 Existe 1 jogo individual, e o restante é multiplayer.Cada jogador começa com 100 moedas, e pode ganhar mais moedas ganhando de outros jogadores ou da casa (ganhar da casa dá menos moedas em comparação com ganhar de outros jogadores, pois assim eles ficam vidrados em jogar e competir e se não tiver ninguém eles jogam sozinhos mas ganhando menos, para não quebrar o jogo). A casa pode produzir dinheiro infinito
 
 # Estrutura 
+
 O nosso projeto possui essa estrutura de base:
 
 ![Fluxograma](https://github.com/iaraalvest/PDSII/assets/170683528/1bfad947-b295-47cd-96aa-53b8b70378f6)
@@ -40,14 +46,13 @@ Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
 Clica no segundo e link e já tem acesso aos codigos:
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/d2246b80-34d5-45bb-8579-3317a4f7b37a)
 
-
 # Instruções de instalação 
+
  Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
 Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do github 
 *link para criar conta no github*
 
 Logo após criar a conta deverá acessar (colocar o caminho até a pasta e nome ) após ter acesso ao código deverá acessar o replit *link para o replit e caminho de como entrar usando o github* com sua conta do github e executar o código por lá.
-
 
 # Instruções gerais de uso 
 Este manual fornece instruções sobre como jogar e interagir com diferentes jogos disponíveis no programa. Ele descreve as opções disponíveis no lobby do jogo e como entrar em um jogo específico.
@@ -87,7 +92,7 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
   - Selecione a opção "Encerrar o Programa" no lobby.
   - O programa será finalizado e você sairá da Casa Principal.
 
-# Instruções de uso- Jogo Paciência
+# Instruções de uso - Jogo Paciência
 
 *Objetivo do Jogo*
 - Mover todas as cartas para as fundações, separando-as por naipes e em ordem crescente (Ás ao Rei). As cartas são dispostas em sete colunas no tableau e podem ser movidas entre colunas seguindo regras específicas: ordem decrescente e alternando cores. Você também pode comprar cartas do monte.
@@ -116,7 +121,8 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Vitória: Todas as cartas estão nas fundações.
 - Derrota: Não há mais movimentos possíveis.
 
-# Instruçoes de uso - Truco
+# Instruções de uso - Jogo Truco
+
 *Objetivo do jogo*
 - O objetivo do jogo é vencer mais rodadas que o seu adversário, acumulando o maior número de pontos ao final de todas as partidas. A vitória é alcançada ao demonstrar habilidade e estratégia, garantindo que seus pontos superem os do oponente ao término do jogo.
 
@@ -146,6 +152,28 @@ Durante o jogo, você pode escolher entre as seguintes ações:
   Aceitar o Truco: O adversário aceita o desafio, e a rodada passa a valer mais pontos.
   
   Não aceitar: O adversário não aceita e as condições são mantidas. 
+
+# Instruções de uso - Jogo 21
+
+*Objetivo do jogo*
+- O objetivo principal do jogo 21 é conseguir uma mão de cartas cuja soma dos valores seja o mais próximo possível de 21, sem ultrapassar esse valor.
+
+*Cartas e valores*
+- Cartas numeradas de 2 a 10 têm o valor de face.
+- Valete (J), Dama (Q) e Rei (K) valem 10 pontos cada.
+- Ás (A) pode valer 1 ou 11 pontos, dependendo do que for mais favorável para a mão do jogador.
+
+*Início do jogo*
+- O jogo começa com a distribuição de duas cartas para cada jogador
+
+*Rodadas*
+- Cada jogador começa com 0 pontos.
+- Jogador pode pedir cartas adicionais até decidir parar ou ultrapassar 21 pontos.
+- Os jogadores devem tentar alcançar a soma de 21 pontos em suas mãos.
+
+*Fim do jogo*
+- O jogo termina após um determinado número de rodadas, conforme escolhido pelos jogadores.
+- O vencedor é declarado com base na maior soma de pontos obtida sem ultrapassar 21.
 
 # Principais Dificuldades
 
