@@ -87,7 +87,7 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
   - Selecione a opção "Encerrar o Programa" no lobby.
   - O programa será finalizado e você sairá da Casa Principal.
 
-# Instruções de uso- Jogo Paciência
+# Instruções de uso - Jogo Paciência
 
 *Objetivo do Jogo*
 - Mover todas as cartas para as fundações, separando-as por naipes e em ordem crescente (Ás ao Rei). As cartas são dispostas em sete colunas no tableau e podem ser movidas entre colunas seguindo regras específicas: ordem decrescente e alternando cores. Você também pode comprar cartas do monte.
@@ -146,6 +146,24 @@ Durante o jogo, você pode escolher entre as seguintes ações:
   Aceitar o Truco: O adversário aceita o desafio, e a rodada passa a valer mais pontos.
   
   Não aceitar: O adversário não aceita e as condições são mantidas. 
+
+# Instruçoes de uso - 21
+*Objetivo do jogo*
+- O objetivo principal do jogo 21 é conseguir uma mão de cartas cuja soma dos valores seja o mais próximo possível de 21, sem ultrapassar esse valor.
+
+*Cartas e valores*
+- Cartas numeradas de 2 a 10 têm o valor de face.
+- Valete (J), Dama (Q) e Rei (K) valem 10 pontos cada.
+- Ás (A) pode valer 1 ou 11 pontos, dependendo do que for mais favorável para a mão do jogador.
+
+  *Início do jogo*
+- Cada jogador recebe duas cartas.
+
+  *Rodadas*
+- Cada jogador começará com 0 pontos
+
+*Rodada 1*
+- Jogador um irá jogar;
 
 # Principais Dificuldades
 
