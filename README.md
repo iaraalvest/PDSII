@@ -52,7 +52,7 @@ Logo após criar a conta deverá acessar (colocar o caminho até a pasta e nome 
 # Instruções gerais de uso 
 Este manual fornece instruções sobre como jogar e interagir com diferentes jogos disponíveis no programa. Ele descreve as opções disponíveis no lobby do jogo e como entrar em um jogo específico.
 
-1. *Inicialização de um Jogador*- Cria um novo jogador com um nome especificado e atribui 100 moedas iniciais.
+1. *Inicialização de um Jogador*- Cria um novo jogador com um nome especificado.
 
 2. *Lobby do Jogo*- No lobby do jogo, você tem as seguintes opções:
 - Entrar em um jogo: Permite que você entre em um dos jogos disponíveis.
@@ -74,10 +74,10 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
 
   2.3- *Explicação dos Jogos*- Esta funcionalidade fornece uma explicação detalhada dos jogos disponíveis.
     
-  - Jogo 21: Pode ser jogado com até 5 pessoas.
+  - Jogo 21: É jogado com 2 pessoas.
         Objetivo: Chegar o mais próximo possível de 21 pontos sem ultrapassá-lo.
     
-  - Jogo Truco: Pode ser jogado por duas duplas.
+  - Jogo Truco: É jogado com 2 pessoas.
         Objetivo: Fazer pontos através de blefes e estratégias para vencer as rodadas.
     
   - Jogo Paciência: É um jogo de cartas para apenas uma pessoa.
