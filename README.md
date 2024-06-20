@@ -156,10 +156,10 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Valete (J), Dama (Q) e Rei (K) valem 10 pontos cada.
 - Ás (A) pode valer 1 ou 11 pontos, dependendo do que for mais favorável para a mão do jogador.
 
-  *Início do jogo*
+*Início do jogo*
 - O jogo começa com a distribuição de duas cartas para cada jogador
 
-  *Rodadas*
+*Rodadas*
 - Cada jogador começa com 0 pontos.
 - Jogador pode pedir cartas adicionais até decidir parar ou ultrapassar 21 pontos.
 - Os jogadores devem tentar alcançar a soma de 21 pontos em suas mãos.
