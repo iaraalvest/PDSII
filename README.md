@@ -116,16 +116,6 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Vitória: Todas as cartas estão nas fundações.
 - Derrota: Não há mais movimentos possíveis.
 
-# Principais Dificuldades
-
-- Ao longo da programação, ocorreu um problema com a herança e com os construtores, já que na arquitetura original era para casa ser superclasse dos demais objetos, no entanto, quando compilou o código, deu um erro que dizia que seria necessário redeclarar o construtor de casa. Assim, esse sistema de herança foi removido. 
-
-- Outra parte relevante foi a otimização do código usando um array de vector string ao invés de dois vectors string individuais. Inicialmente não pensava ser possível, mas na prática funcionou e isso otimizou bastantes linhas, já que foi só mudar o elemento do array ao invés de criar todo um novo sistema.
-
-- Sobre o último caso, o mesmo ocorreu na conversão do simbolo das cartas para o valor das cartas. A solução foi, ao invés de usar dois dados individuais, usar apenas 1 for para dois elementos do array, q para cada jogador.
-
-- Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
-
 # Instruçoes de uso - Truco
 *Objetivo do jogo*
 - O objetivo do jogo é vencer mais rodadas que o seu adversário, acumulando o maior número de pontos ao final de todas as partidas. A vitória é alcançada ao demonstrar habilidade e estratégia, garantindo que seus pontos superem os do oponente ao término do jogo.
@@ -157,7 +147,15 @@ Durante o jogo, você pode escolher entre as seguintes ações:
   
   Não aceitar: O adversário não aceita e as condições são mantidas. 
 
-# Principais dificuldades
+# Principais Dificuldades
+
+- Ao longo da programação, ocorreu um problema com a herança e com os construtores, já que na arquitetura original era para casa ser superclasse dos demais objetos, no entanto, quando compilou o código, deu um erro que dizia que seria necessário redeclarar o construtor de casa. Assim, esse sistema de herança foi removido. 
+
+- Outra parte relevante foi a otimização do código usando um array de vector string ao invés de dois vectors string individuais. Inicialmente não pensava ser possível, mas na prática funcionou e isso otimizou bastantes linhas, já que foi só mudar o elemento do array ao invés de criar todo um novo sistema.
+
+- Sobre o último caso, o mesmo ocorreu na conversão do simbolo das cartas para o valor das cartas. A solução foi, ao invés de usar dois dados individuais, usar apenas 1 for para dois elementos do array, q para cada jogador.
+
+- Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
 
 
 
