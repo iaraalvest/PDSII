@@ -157,13 +157,16 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Ás (A) pode valer 1 ou 11 pontos, dependendo do que for mais favorável para a mão do jogador.
 
   *Início do jogo*
-- Cada jogador recebe duas cartas.
+- O jogo começa com a distribuição de duas cartas para cada jogador
 
   *Rodadas*
-- Cada jogador começará com 0 pontos
+- Cada jogador começa com 0 pontos.
+- Jogador pode pedir cartas adicionais até decidir parar ou ultrapassar 21 pontos.
+- Os jogadores devem tentar alcançar a soma de 21 pontos em suas mãos.
 
-*Rodada 1*
-- Jogador um irá jogar;
+*Fim do jogo*
+- O jogo termina após um determinado número de rodadas, conforme escolhido pelos jogadores.
+- O vencedor é declarado com base na maior soma de pontos obtida sem ultrapassar 21.
 
 # Principais Dificuldades
 
