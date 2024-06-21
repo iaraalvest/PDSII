@@ -44,7 +44,14 @@ Em resumo, este programa configura um sistema de cassino onde os usuários podem
 
 Os nossos principais componentes serão encontrados no *replit* e no *github*. 
 
-No *replit* todos os nossos codigos serão encontrados em seus respectivos arquivos: casa.hpp e casa.cpp; jogador.hpp e jogador.cpp; jogadores.hpp e jogadores.cpp; jogo_paciencia_.hpp e jogo_paciencia.cpp; jogo_21.hpp e jogo_21.cpp; jogo_truco.hpp e jogo_truco.cpp, os codigos são detalhados e possuem comentarios para uma melhor compreensão do cliente, o mesmo link da main da acesso aos demais codigos.
+
+
+# Instruções de instalação 
+
+Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
+Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do github seguindo as instruções a seguir: 
+
+No *replit* todos os nossos códigos serão encontrados em seus respectivos arquivos: casa.hpp e casa.cpp; jogador.hpp e jogador.cpp; jogadores.hpp e jogadores.cpp; jogo_paciencia_.hpp e jogo_paciencia.cpp; jogo_21.hpp e jogo_21.cpp; jogo_truco.hpp e jogo_truco.cpp, os codigos são detalhados e possuem comentários para uma melhor compreensão do cliente, o mesmo link da main da acesso aos demais codigos.
 
 No *github* será encontrada nossa documentação, tudo prescrito informando todo o nosso trabalho, nossas ideias, duvidas, soluções etc, um manual completo para o nosso cliente possuindo todas as informações necessarias e detalhadas, nele também será encontrado nossos codigos, entao o cliente irá possuir dois canais de acesso.
 
@@ -58,14 +65,6 @@ Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
 
 Clica no segundo e link e já tem acesso aos codigos:
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/d2246b80-34d5-45bb-8579-3317a4f7b37a)
-
-# Instruções de instalação 
-
- Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
-Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do github 
-*link para criar conta no github*
-
-Logo após criar a conta deverá acessar (colocar o caminho até a pasta e nome ) após ter acesso ao código deverá acessar o replit *link para o replit e caminho de como entrar usando o github* com sua conta do github e executar o código por lá.
 
 # Instruções gerais de uso 
 Este manual fornece instruções sobre como jogar e interagir com diferentes jogos disponíveis no programa. Ele descreve as opções disponíveis no lobby do jogo e como entrar em um jogo específico.
@@ -198,7 +197,9 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 
 - Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
 
-- Tivemos um pouco de dificuldade com o próprio GitHub, por ele ter uma limitação à algumas funcionalidades para um usuário que não seja pró. Ele também não conseguiu compilar o nosso código, levando-nos a utilizar uma outra plataforma, o Replit.
+- Tivemos um pouco de dificuldade com o próprio GitHub, por ele ter uma limitação à algumas funcionalidades para um usuário que não seja pró.
+  
+- A plataforma em questão também não conseguiu compilar o nosso código, levando-nos a utilizar uma outra plataforma para verificarmos os detalhes ao compilar e executar nosso código, o Replit.
 
 
 
