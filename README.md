@@ -201,7 +201,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 
 - Tivemos um pouco de dificuldade com o próprio GitHub, por ele ter uma limitação à algumas funcionalidades para um usuário que não seja pró.
   
-- A plataforma em questão também não conseguiu compilar o nosso código, levando-nos a utilizar uma outra plataforma para verificarmos os detalhes ao compilar e executar nosso código, o Replit.
+- A plataforma em questão também não conseguiu compilar o nosso código, levando-nos a utilizar uma outra plataforma (o Replit) para verificarmos os detalhes ao compilar e executar.
 
 
 
