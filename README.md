@@ -187,6 +187,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 
 - Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
 
+- Tivemos um pouco de dificuldade com o próprio GitHub, por ele ter uma limitação à algumas funcionalidades para um usuário que não seja pró. Ele também não conseguiu compilar o nosso código, levando-nos a utilizar uma outra plataforma, o Replit. 
 
 
 
