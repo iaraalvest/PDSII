@@ -15,7 +15,9 @@ Um cliente nos procurou querendo um programa funcional para um sistema de jogos 
 
 # Solução - visão geral
 
-Vamos desenvolver um sistema de cadastro e login com um banco de dados para armazenar os nomes dos usuários. O sistema incluirá um jogo individual e vários jogos multiplayer. Cada jogador começará com 100 moedas e poderá ganhar mais ao derrotar outros jogadores ou desafiar a casa. As vitórias contra outros jogadores oferecerão mais moedas do que as vitórias contra a casa, incentivando a competição. Quando não houver oponentes disponíveis, os jogadores poderão optar por jogar sozinhos, mas os ganhos serão menores para manter o equilíbrio do jogo. A casa terá a capacidade de gerar moedas ilimitadamente.
+Com base em um raciocinio em equipe nós decidimos criar um programa inspirado nos jogos de cassino, entretanto sem conter apostas monetárias, contaremos com um sistema de cadastro de login que inclui um banco de dados para armazenar os nomes dos usuários.
+
+A solução geral inclui os jogos citados anteriormente: 21, truco e paciência. Cada jogo com suas particularidades como quantidade de jogadores e regras especificas, ao longo da nossa documentação e desenvolvimento especificaremos o funcionamneto tanto dos jogos como de toda estrutura main que une todos os detalhes. 
 
 # Estrutura 
 
