@@ -15,10 +15,21 @@ Um cliente nos procurou querendo um programa funcional para um sistema de jogos 
 
 # Solução - visão geral
 
-Nós faremos um sistema de cadastro e login com, que tem um banco de dados que armazena os respectivos nomes.
-Existe 1 jogo individual, e o restante é multiplayer.Cada jogador começa com 100 moedas, e pode ganhar mais moedas ganhando de outros jogadores ou da casa (ganhar da casa dá menos moedas em comparação com ganhar de outros jogadores, pois assim eles ficam vidrados em jogar e competir e se não tiver ninguém eles jogam sozinhos mas ganhando menos, para não quebrar o jogo). A casa pode produzir dinheiro infinito
+Vamos desenvolver um sistema de cadastro e login com um banco de dados para armazenar os nomes dos usuários. O sistema incluirá um jogo individual e vários jogos multiplayer. Cada jogador começará com 100 moedas e poderá ganhar mais ao derrotar outros jogadores ou desafiar a casa. As vitórias contra outros jogadores oferecerão mais moedas do que as vitórias contra a casa, incentivando a competição. Quando não houver oponentes disponíveis, os jogadores poderão optar por jogar sozinhos, mas os ganhos serão menores para manter o equilíbrio do jogo. A casa terá a capacidade de gerar moedas ilimitadamente.
 
 # Estrutura 
+
+Em primeiro lugar nós fizemos uma reunião para definir como seria feito o projeto, com qual parte cada contriubuinte iria realizar e organizamos tudo da melhor forma possível.
+
+Desta forma dividimos o projeto em duas grandes parte: o código e a documentação. 
+
+O código ficou na seguinte maneira: 
+
+- Cauã: responsável pela main e 21.
+- Iara e Kaylane: responsáveis pelo Truco.
+- Julia Coelho, Julia Moschen e Isabella: responsáveis pelo Paciência.
+
+A documentação nós definimos com qual tópico cada contribuinte iria ficar responsável, mas com liberdade para alterações caso necessário e sinalizado entre os mesmos, e todas as alterações são possiveis de acompnhar e ver quem realizou pelo commits do GitHub.
 
 O nosso projeto possui essa estrutura de base:
 
