@@ -23,7 +23,7 @@ A solução geral inclui os jogos citados anteriormente: 21, truco e paciência.
 
 Em primeiro lugar, nós fizemos uma reunião para definir como seria feito o projeto, qual parte cada contribuinte iria realizar e organizamos tudo da melhor forma possível.
 
-Dessa forma, dividimos o projeto em duas grandes parte: o código e a documentação. 
+Dessa forma, dividimos o projeto em duas grandes partes: o código e a documentação. 
 
 O código ficou na seguinte maneira: 
 
