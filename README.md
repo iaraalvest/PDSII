@@ -15,15 +15,15 @@ Um cliente nos procurou querendo um programa funcional para um sistema de jogos 
 
 # Solução - visão geral
 
-Com base em um raciocinio em equipe nós decidimos criar um programa inspirado nos jogos de cassino, entretanto sem conter apostas monetárias, contaremos com um sistema de cadastro de login que inclui um banco de dados para armazenar os nomes dos usuários.
+Com base em um raciocínio em equipe, nós decidimos criar um programa inspirado nos jogos de cassino, entretanto, sem conter apostas monetárias. Contaremos com um sistema de cadastro de login que inclui um banco de dados para armazenar os nomes dos usuários.
 
-A solução geral inclui os jogos citados anteriormente: 21, truco e paciência. Cada jogo com suas particularidades como quantidade de jogadores e regras especificas, ao longo da nossa documentação e desenvolvimento especificaremos o funcionamneto tanto dos jogos como de toda estrutura main que une todos os detalhes. 
+A solução geral inclui os jogos citados anteriormente: 21, truco e paciência. Cada jogo com suas particularidades, como quantidade de jogadores e regras específicas. Ao longo da nossa documentação e desenvolvimento, especificaremos o funcionamneto tanto dos jogos como de toda a estrutura main que une todos os detalhes. 
 
 # Estrutura 
 
-Em primeiro lugar nós fizemos uma reunião para definir como seria feito o projeto, com qual parte cada contriubuinte iria realizar e organizamos tudo da melhor forma possível.
+Em primeiro lugar, nós fizemos uma reunião para definir como seria feito o projeto, qual parte cada contribuinte iria realizar e organizamos tudo da melhor forma possível.
 
-Desta forma dividimos o projeto em duas grandes parte: o código e a documentação. 
+Dessa forma, dividimos o projeto em duas grandes parte: o código e a documentação. 
 
 O código ficou na seguinte maneira: 
 
@@ -31,38 +31,37 @@ O código ficou na seguinte maneira:
 - Iara e Kaylane: responsáveis pelo Truco.
 - Julia Coelho, Julia Moschen e Isabella: responsáveis pelo Paciência.
 
-A documentação nós definimos com qual tópico cada contribuinte iria ficar responsável, mas com liberdade para alterações caso necessário e sinalizado entre os mesmos, e todas as alterações são possiveis de acompnhar e ver quem realizou pelo commits do GitHub.
+A documentação nós definimos com qual tópico cada contribuinte iria ficar responsável, mas com liberdade para alterações caso necessário e sinalizado entre os mesmos, e todas as alterações são possíveis de acompnhar e ver quem realizou pelo commits do GitHub.
 
 O nosso projeto possui essa estrutura de base:
 
 ![Fluxograma](https://github.com/iaraalvest/PDSII/assets/170683528/1bfad947-b295-47cd-96aa-53b8b70378f6)
 
-Onde o jogador entra e cai direto na parte da *casa*, nela possui a parte de login, se o usuario ja for cadastrado segue direto para a seleção de jogos, se não for ele ira ser encaminhado para realizar o cadastro; é a parte do nosso lobby, pré jogo. Seguindo pra área de *jogos*, nela possui a parte de armazenamento de *dados* dos nossos *jogadores*, assim podem verificar os nomes dos jogadores, e a parte pricipal que é a seleção dos jogos. Estão disponiveis tres jogos: *21, Truco e Paciencia*,  jogo selecionado basta jogar!. Ao final de cada partida a opção de *saída* se mostra disponivel, se o usuario desejar sair aparece sua posição e fim de jogo, se desejar uma nova partida, será redirecionado para *casa*.
+Onde o jogador entra e cai direto na parte da *casa*, nela possui a parte de login; Se o usuário já for cadastrado, segue direto para a seleção de jogos, se não for, ele será encaminhado para realizar o cadastro; é a parte do nosso lobby, pré jogo. Seguindo para a área de *jogos*, nela possui a parte de armazenamento de *dados* dos nossos *jogadores*, assim, podem verificar os nomes dos jogadores e a parte pricipal, que é a seleção dos jogos. Estão disponíveis três jogos: *21, Truco e Paciencia*,  jogo selecionado basta jogar! Ao final de cada partida, a opção de *saída* se mostra disponível; Se o usuário desejar sair, aparece sua posição e fim de jogo, se desejar uma nova partida, será redirecionado para *casa*.
 
 O nosso programa funciona de forma bem simples, a nossa main principal que dita as principais informações. 
 
 Link da main: https://replit.com/@CauaLuzz/Jogo-de-cartas#main.cpp
-Em resumo, este programa configura um sistema de cassino onde os usuários podem selecionar e jogar diferentes jogos de cartas, além de ajustar o número de jogadores e obter explicações sobre os jogos.
+Em resumo, esse programa configura um sistema de cassino em que os usuários podem selecionar e jogar diferentes jogos de cartas, além de ajustar o número de jogadores e obter explicações sobre os jogos.
 
 Os nossos principais componentes serão encontrados no *replit* e no *github*. 
 
 
-
 # Instruções de instalação 
 
-Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
-Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do github seguindo as instruções a seguir: 
+Para que o problema inicial seja solucionado por completo, o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
+Para ter acesso ao nosso programa de cassino, o jogador deve ter uma conta do github seguindo as instruções a seguir: 
 
 No *replit* todos os nossos códigos serão encontrados em seus respectivos arquivos: casa.hpp e casa.cpp; jogador.hpp e jogador.cpp; jogadores.hpp e jogadores.cpp; jogo_paciencia_.hpp e jogo_paciencia.cpp; jogo_21.hpp e jogo_21.cpp; jogo_truco.hpp e jogo_truco.cpp, os codigos são detalhados e possuem comentários para uma melhor compreensão do cliente, o mesmo link da main da acesso aos demais codigos.
 
-No *github* será encontrada nossa documentação, tudo prescrito informando todo o nosso trabalho, nossas ideias, duvidas, soluções etc, um manual completo para o nosso cliente possuindo todas as informações necessarias e detalhadas, nele também será encontrado nossos codigos, entao o cliente irá possuir dois canais de acesso.
+No *github* será encontrada nossa documentação, tudo prescrito informando todo o nosso trabalho, nossas ideias, dúvidas, soluções, etc, um manual completo para o nosso cliente, possuindo todas as informações necessárias e detalhadas. Nele também será encontrado nossos códigos, então o cliente irá possuir dois canais de acesso.
 
 Link: https://github.com/iaraalvest/PDSII
 
-Para acessar os codigos pelo github, o usuario ira acessar o link a cima e cai nessa janela:
+Para acessar os códigos pelo github, o usuário irá acessar o link acima e cai nessa janela:
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/27165c6c-4521-439f-9efe-9847bdd10ba3)
 
-Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
+Depois, clica onde está *2 branches*, e vai abrir a seguinte janela:
 ![image](https://github.com/IsaFariasCh/PDSII/assets/170683528/d53ae076-87f9-462c-a511-12984646a10e)
 
 Clica no segundo ou terceiro link da imagem anterior e já tem acesso aos codigos:
