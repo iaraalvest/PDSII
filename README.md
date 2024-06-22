@@ -65,8 +65,8 @@ Para acessar os codigos pelo github, o usuario ira acessar o link a cima e cai n
 Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/b4934346-c175-4658-9463-25a83f0b9a8e)
 
-Clica no segundo e link e já tem acesso aos codigos:
-![image](https://github.com/iaraalvest/PDSII/assets/170683528/d2246b80-34d5-45bb-8579-3317a4f7b37a)
+Clica no segundo ou terceiro link e já tem acesso aos codigos:
+![image](https://github.com/IsaFariasCh/PDSII/assets/170683528/53655b4d-5568-45fa-9706-2e84073d0ba2)
 
 # Instruções gerais de uso 
 Este manual fornece instruções sobre como jogar e interagir com diferentes jogos disponíveis no programa. Ele descreve as opções disponíveis no lobby do jogo e como entrar em um jogo específico.
