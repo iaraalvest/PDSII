@@ -56,7 +56,7 @@ No *replit* todos os nossos códigos serão encontrados em seus respectivos arqu
 
 No *github* será encontrada nossa documentação, tudo prescrito informando todo o nosso trabalho, nossas ideias, dúvidas, soluções, etc, um manual completo para o nosso cliente, possuindo todas as informações necessárias e detalhadas. Nele também será encontrado nossos códigos, então o cliente irá possuir dois canais de acesso.
 
-Link: https://github.com/iaraalvest/PDSII
+Link: https://github.com/IsaFariasCh/PDSII
 
 Para acessar os códigos pelo github, o usuário irá acessar o link acima e cai nessa janela:
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/27165c6c-4521-439f-9efe-9847bdd10ba3)
@@ -198,7 +198,7 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 
 - Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
 
-- Tivemos um pouco de dificuldade com o próprio GitHub, por ele ter uma limitação à algumas funcionalidades para um usuário que não seja pró, como solução, para que todos os integrantes pudessem acessar e editar a documentação foi feito um fork do repositório. 
+- Tivemos um pouco de dificuldade com o próprio GitHub por ele ter uma limitação a algumas funcionalidades para um usuário que não seja pró. Como solução, para que todos os integrantes pudessem acessar e editar a documentação, foi feito um fork do repositório. 
   
 - A plataforma em questão também não conseguiu compilar o nosso código, levando-nos a utilizar uma outra plataforma (o Replit) para verificarmos os detalhes ao compilar e executar.
 
