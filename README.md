@@ -37,7 +37,7 @@ O nosso projeto possui essa estrutura de base:
 
 ![Fluxograma](https://github.com/iaraalvest/PDSII/assets/170683528/1bfad947-b295-47cd-96aa-53b8b70378f6)
 
-Onde o jogador entra e cai direto na parte da *casa*, nela possui a parte de login, se o usuario ja for cadastrado segue direto para a seleção de jogos, se não for ele ira ser encaminhado para realizar o cadastro; ela também cotrola as moedas, trasações e é a parte do nosso lobby, pré jogo. Seguindo pra área de *jogos*, nela possui a parte de armazenamento de *dados* dos nossos *jogadores*, assim eles podem verificar seu dados e a quatidade de moedas disponivel, e a parte pricipal que é a seleção dos jogos. Estão disponiveis tres jogos: *21, Truco e Paciencia*,  jogo selecionado basta jogar!. Ao final de cada partida a opção de *saída* se mostra disponivel, se o usuario desejar sair aparece sua posição e fim de jogo, se desejar uma nova partida, será redirecionado para *casa*.
+Onde o jogador entra e cai direto na parte da *casa*, nela possui a parte de login, se o usuario ja for cadastrado segue direto para a seleção de jogos, se não for ele ira ser encaminhado para realizar o cadastro; é a parte do nosso lobby, pré jogo. Seguindo pra área de *jogos*, nela possui a parte de armazenamento de *dados* dos nossos *jogadores*, assim podem verificar os nomes dos jogadores, e a parte pricipal que é a seleção dos jogos. Estão disponiveis tres jogos: *21, Truco e Paciencia*,  jogo selecionado basta jogar!. Ao final de cada partida a opção de *saída* se mostra disponivel, se o usuario desejar sair aparece sua posição e fim de jogo, se desejar uma nova partida, será redirecionado para *casa*.
 
 O nosso programa funciona de forma bem simples, a nossa main principal que dita as principais informações. 
 
