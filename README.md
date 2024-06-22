@@ -6,7 +6,7 @@
 
 # Apresentação
 
-Um cliente nos procurou querendo um programa funcional para um sistema de jogos de baralho tradicionais brasileiros, porém só com cartas de baralho . E ele implica:
+Um cliente nos procurou querendo um programa funcional para um sistema de jogos de baralho tradicionais brasileiros, porém, só com cartas de baralho. E ele implica:
 
 * 21 Brasileiro
 * Truco
