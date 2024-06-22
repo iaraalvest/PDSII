@@ -63,7 +63,7 @@ Para acessar os codigos pelo github, o usuario ira acessar o link a cima e cai n
 ![image](https://github.com/iaraalvest/PDSII/assets/170683528/27165c6c-4521-439f-9efe-9847bdd10ba3)
 
 Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
-![image](https://github.com/iaraalvest/PDSII/assets/170683528/b4934346-c175-4658-9463-25a83f0b9a8e)
+![image](https://github.com/IsaFariasCh/PDSII/assets/170683528/d53ae076-87f9-462c-a511-12984646a10e)
 
 Clica no segundo ou terceiro link e já tem acesso aos codigos:
 ![image](https://github.com/IsaFariasCh/PDSII/assets/170683528/53655b4d-5568-45fa-9706-2e84073d0ba2)
