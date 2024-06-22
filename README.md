@@ -31,7 +31,7 @@ O código ficou na seguinte maneira:
 - Iara e Kaylane: responsáveis pelo Truco.
 - Julia Coelho, Julia Moschen e Isabella: responsáveis pelo Paciência.
 
-A documentação nós definimos com qual tópico cada contribuinte iria ficar responsável, mas com liberdade para alterações caso necessário e sinalizado entre os mesmos, e todas as alterações são possíveis de acompnhar e ver quem realizou pelo commits do GitHub.
+A documentação nós definimos com qual tópico cada contribuinte iria ficar responsável, mas com liberdade para alterações caso necessário e sinalizado entre os mesmos, e todas as alterações são possíveis de acompanhar e ver quem realizou pelo commits do GitHub.
 
 O nosso projeto possui essa estrutura de base:
 
