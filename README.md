@@ -1,53 +1,74 @@
 # Jogo de Cartas Avançado 
 ![tela de incio](https://github.com/iaraalvest/PDSII/assets/170683528/31ae8c26-6ad1-4c90-804d-30528c6657c5)
-# Situação
-> :construction: Projeto em construção :construction:
-# Apresentação
-Um cliente nos procurou querendo um programa funcional para um sistema de cassino online, estilo Blazer, porém só com cartas de baralho e onde os jogadores tiram dinheiro deles mesmos, porém a casa sempre fica com uma porcentagem do dinheiro total envolvido. E ele implica:
 
-* Jogos de cartas de Cassino e outros jogos populares como truco e 21
-* Quer um sistema de monetização
+# Situação
+ Projeto finalizado.
+
+# Apresentação
+
+Um cliente nos procurou querendo um programa funcional para um sistema de jogos de baralho tradicionais brasileiros, porém, só com cartas de baralho. E ele implica:
+
+* 21 Brasileiro
+* Truco
+* Paciência 
+
+
+
+
 # Solução - visão geral
-Nós faremos um sistema de cadastro e login com moedas próprias, que tem um banco de dados que armazena nome, senha e moedas (sem valor no mundo real).
-Existe 1 jogo individual, e o restante é multiplayer.Cada jogador começa com 100 moedas, e pode ganhar mais moedas ganhando de outros jogadores ou da casa (ganhar da casa dá menos moedas em comparação com ganhar de outros jogadores, pois assim eles ficam vidrados em jogar e competir e se não tiver ninguém eles jogam sozinhos mas ganhando menos, para não quebrar o jogo). A casa pode produzir dinheiro infinito
+
+Com base em um raciocínio em equipe, nós decidimos criar um programa inspirado nos jogos de cassino, entretanto, sem conter apostas monetárias. Contaremos com um sistema de cadastro de login que inclui um banco de dados para armazenar os nomes dos usuários.
+
+A solução geral inclui os jogos citados anteriormente: 21, truco e paciência. Cada jogo com suas particularidades, como quantidade de jogadores e regras específicas. Ao longo da nossa documentação e desenvolvimento, especificaremos o funcionamneto tanto dos jogos como de toda a estrutura main que une todos os detalhes. 
 
 # Estrutura 
+
+Em primeiro lugar, nós fizemos uma reunião para definir como seria feito o projeto, qual parte cada contribuinte iria realizar e organizamos tudo da melhor forma possível.
+
+Dessa forma, dividimos o projeto em duas grandes partes: o código e a documentação. 
+
+O código ficou na seguinte maneira: 
+
+- Cauã: responsável pela main e 21.
+- Iara e Kaylane: responsáveis pelo Truco.
+- Julia Coelho, Julia Moschen e Isabella: responsáveis pelo Paciência.
+- Iara, Kaylane e Cauã: responsáveis por implementar a programação defensiva, com sugestões da Julia Coelho.
+
+A documentação nós definimos com qual tópico cada contribuinte iria ficar responsável, mas com liberdade para alterações caso necessário e sinalizado entre os mesmos, e todas as alterações são possíveis de acompanhar e ver quem realizou pelo commits do GitHub.
+
 O nosso projeto possui essa estrutura de base:
 
 ![Fluxograma](https://github.com/iaraalvest/PDSII/assets/170683528/1bfad947-b295-47cd-96aa-53b8b70378f6)
 
-Onde o jogador entra e cai direto na parte da *casa*, nela possui a parte de login, se o usuario ja for cadastrado segue direto para a seleção de jogos, se não for ele ira ser encaminhado para realizar o cadastro; ela também cotrola as moedas, trasações e é a parte do nosso lobby, pré jogo. Seguindo pra área de *jogos*, nela possui a parte de armazenamento de *dados* dos nossos *jogadores*, assim eles podem verificar seu dados e a quatidade de moedas disponivel, e a parte pricipal que é a seleção dos jogos. Estão disponiveis tres jogos: *21, Truco e Paciencia*,  jogo selecionado basta jogar!. Ao final de cada partida a opção de *saída* se mostra disponivel, se o usuario desejar sair aparece sua posição e fim de jogo, se desejar uma nova partida, será redirecionado para *casa*.
+Onde o jogador entra e cai direto na parte da *casa*, nela possui a parte de login; Se o usuário já for cadastrado, segue direto para a seleção de jogos, se não for, ele será encaminhado para realizar o cadastro; é a parte do nosso lobby, pré jogo. Seguindo para a área de *jogos*, nela possui a parte de armazenamento de *dados* dos nossos *jogadores*, assim, podem verificar os nomes dos jogadores e a parte pricipal, que é a seleção dos jogos. Estão disponíveis três jogos: *21, Truco e Paciencia*. Jogo selecionado, basta jogar! Ao final de cada partida, a opção de *saída* se mostra disponível; Se o usuário desejar sair, aparece sua posição e fim de jogo, se desejar uma nova partida, será redirecionado para *casa*.
 
 O nosso programa funciona de forma bem simples, a nossa main principal que dita as principais informações. 
 
 Link da main: https://replit.com/@CauaLuzz/Jogo-de-cartas#main.cpp
-Em resumo, este programa configura um sistema de cassino onde os usuários podem selecionar e jogar diferentes jogos de cartas, além de ajustar o número de jogadores e obter explicações sobre os jogos.
+Em resumo, esse programa configura um sistema de cassino em que os usuários podem selecionar e jogar diferentes jogos de cartas, além de ajustar o número de jogadores e obter explicações sobre os jogos.
 
 Os nossos principais componentes serão encontrados no *replit* e no *github*. 
 
-No *replit* todos os nossos codigos serão encontrados em seus respectivos arquivos: casa.hpp e casa.cpp; jogador.hpp e jogador.cpp; jogadores.hpp e jogadores.cpp; jogo_paciencia_.hpp e jogo_paciencia.cpp; jogo_21.hpp e jogo_21.cpp; jogo_truco.hpp e jogo_truco.cpp, os codigos são detalhados e possuem comentarios para uma melhor compreensão do cliente, o mesmo link da main da acesso aos demais codigos.
-
-No *github* será encontrada nossa documentação, tudo prescrito informando todo o nosso trabalho, nossas ideias, duvidas, soluções etc, um manual completo para o nosso cliente possuindo todas as informações necessarias e detalhadas, nele também será encontrado nossos codigos, entao o cliente irá possuir dois canais de acesso.
-
-Link: https://github.com/iaraalvest/PDSII
-
-Para acessar os codigos pelo github, o usuario ira acessar o link a cima e cai nessa janela:
-![image](https://github.com/iaraalvest/PDSII/assets/170683528/27165c6c-4521-439f-9efe-9847bdd10ba3)
-
-Depois clica onde está *2 branches*, e vai abrir a seguinte janela:
-![image](https://github.com/iaraalvest/PDSII/assets/170683528/b4934346-c175-4658-9463-25a83f0b9a8e)
-
-Clica no segundo e link e já tem acesso aos codigos:
-![image](https://github.com/iaraalvest/PDSII/assets/170683528/d2246b80-34d5-45bb-8579-3317a4f7b37a)
-
 
 # Instruções de instalação 
- Para que o problema inicial seja solucionado por completo o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
-Para ter acesso ao nosso programa de cassino o jogador deve ter uma conta do github 
-*link para criar conta no github*
 
-Logo após criar a conta deverá acessar (colocar o caminho até a pasta e nome ) após ter acesso ao código deverá acessar o replit *link para o replit e caminho de como entrar usando o github* com sua conta do github e executar o código por lá.
+Para que o problema inicial seja solucionado por completo, o jogo precisa ser utilizado pelo cliente, sendo assim, seguem as instruções para a instalação do cassino:
+Para ter acesso ao nosso programa de cassino, o jogador deve ter uma conta do github seguindo as instruções a seguir: 
 
+No *replit* todos os nossos códigos serão encontrados em seus respectivos arquivos: casa.hpp e casa.cpp; jogador.hpp e jogador.cpp; jogadores.hpp e jogadores.cpp; jogo_paciencia_.hpp e jogo_paciencia.cpp; jogo_21.hpp e jogo_21.cpp; jogo_truco.hpp e jogo_truco.cpp, os codigos são detalhados e possuem comentários para uma melhor compreensão do cliente, o mesmo link da main da acesso aos demais codigos.
+
+No *github* será encontrada nossa documentação, tudo prescrito informando todo o nosso trabalho, nossas ideias, dúvidas, soluções, etc, um manual completo para o nosso cliente, possuindo todas as informações necessárias e detalhadas. Nele também será encontrado nossos códigos, então o cliente irá possuir dois canais de acesso.
+
+Link: https://github.com/IsaFariasCh/PDSII
+
+Para acessar os códigos pelo github, o usuário irá acessar o link acima e cai nessa janela:
+![image](https://github.com/iaraalvest/PDSII/assets/170683528/27165c6c-4521-439f-9efe-9847bdd10ba3)
+
+Depois, clica onde está *2 branches*, e vai abrir a seguinte janela:
+![image](https://github.com/IsaFariasCh/PDSII/assets/170683528/d53ae076-87f9-462c-a511-12984646a10e)
+
+Clica no segundo ou terceiro link da imagem anterior e já tem acesso aos codigos:
+![image](https://github.com/IsaFariasCh/PDSII/assets/170683528/782df8f6-43c1-4cfd-82f1-b3bf15dadc1b)
 
 # Instruções gerais de uso 
 Este manual fornece instruções sobre como jogar e interagir com diferentes jogos disponíveis no programa. Ele descreve as opções disponíveis no lobby do jogo e como entrar em um jogo específico.
@@ -87,7 +108,7 @@ Este manual fornece instruções sobre como jogar e interagir com diferentes jog
   - Selecione a opção "Encerrar o Programa" no lobby.
   - O programa será finalizado e você sairá da Casa Principal.
 
-# Instruções de uso- Jogo Paciência
+# Instruções de uso - Jogo Paciência
 
 *Objetivo do Jogo*
 - Mover todas as cartas para as fundações, separando-as por naipes e em ordem crescente (Ás ao Rei). As cartas são dispostas em sete colunas no tableau e podem ser movidas entre colunas seguindo regras específicas: ordem decrescente e alternando cores. Você também pode comprar cartas do monte.
@@ -116,7 +137,8 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 - Vitória: Todas as cartas estão nas fundações.
 - Derrota: Não há mais movimentos possíveis.
 
-# Instruçoes de uso - Truco
+# Instruções de uso - Jogo Truco
+
 *Objetivo do jogo*
 - O objetivo do jogo é vencer mais rodadas que o seu adversário, acumulando o maior número de pontos ao final de todas as partidas. A vitória é alcançada ao demonstrar habilidade e estratégia, garantindo que seus pontos superem os do oponente ao término do jogo.
 
@@ -147,6 +169,28 @@ Durante o jogo, você pode escolher entre as seguintes ações:
   
   Não aceitar: O adversário não aceita e as condições são mantidas. 
 
+# Instruções de uso - Jogo 21
+
+*Objetivo do jogo*
+- O objetivo principal do jogo 21 é conseguir uma mão de cartas cuja soma dos valores seja o mais próximo possível de 21, sem ultrapassar esse valor.
+
+*Cartas e valores*
+- Cartas numeradas de 2 a 10 têm o valor de face.
+- Valete (J), Dama (Q) e Rei (K) valem 10 pontos cada.
+- Ás (A) pode valer 1 ou 11 pontos, dependendo do que for mais favorável para a mão do jogador.
+
+*Início do jogo*
+- O jogo começa com a distribuição de duas cartas para cada jogador
+
+*Rodadas*
+- Cada jogador começa com 0 pontos.
+- Jogador pode pedir cartas adicionais até decidir parar ou ultrapassar 21 pontos.
+- Os jogadores devem tentar alcançar a soma de 21 pontos em suas mãos.
+
+*Fim do jogo*
+- O jogo termina após um determinado número de rodadas, conforme escolhido pelos jogadores.
+- O vencedor é declarado com base na maior soma de pontos obtida sem ultrapassar 21.
+
 # Principais Dificuldades
 
 - Ao longo da programação, ocorreu um problema com a herança e com os construtores, já que na arquitetura original era para casa ser superclasse dos demais objetos, no entanto, quando compilou o código, deu um erro que dizia que seria necessário redeclarar o construtor de casa. Assim, esse sistema de herança foi removido. 
@@ -157,7 +201,17 @@ Durante o jogo, você pode escolher entre as seguintes ações:
 
 - Ainda sobre otimização de código, especificamente nas condicionais, pode ser feito usando o operador || (ou) para a situação: Condicionais diferentes e saídas iguais.
 
+- Tivemos um pouco de dificuldade com o próprio GitHub por ele ter uma limitação a algumas funcionalidades para um usuário que não seja pró. Como solução, para que todos os integrantes pudessem acessar e editar a documentação, foi feito um fork do repositório. 
+  
+- A plataforma em questão também não conseguiu compilar o nosso código, levando-nos a utilizar uma outra plataforma (o Replit) para verificarmos os detalhes ao compilar e executar.
 
+- Depois de testar o codigo identificamos que poderiamos fazer algumas melhorias aplicando a programação defensiva. Fizemos atualizações dos codigos: casa, main, jogo e jogador.
+
+      - a cada rodada agora junto com a opção: "insira uma letra para continuar" tem também, "insira 0 para retornar ao menu", dando a opção do usuário sair do jogo a hora que quiser. 
+
+      - a cada final da partida o usuário tem a opção de sair do jogo ou retornar ao menu. 
+
+      - mensagens de erros e direcionamento caso o usuário insira alguma coisa errada ou que não está disponível para a seleção.
 
 
 
